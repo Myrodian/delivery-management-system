@@ -1,4 +1,4 @@
-# Trab_Distribuidora
+# Sistema para gerenciamento de distribuidora
 
 trabalho dedicado para a materia de banco de dados sobre uma distribuidora simples, nela há pedidos que devem ser cadastrado pelos funcionarios, administra entregas(concentração do projeto) e quem realiza as mesmas.
 
