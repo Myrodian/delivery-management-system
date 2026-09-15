@@ -41,8 +41,8 @@ from `Distribuidora_TrabF.sql`. An overview of the schema is in `foto.png`.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Myrodian/Trab_Distribuidora.git
-cd Trab_Distribuidora
+git clone https://github.com/Myrodian/delivery-management-system.git
+cd delivery-management-system
 
 # 2. Create the database (run the SQL script in MySQL)
 mysql -u root -p < Distribuidora_TrabF.sql
@@ -96,8 +96,8 @@ de `Distribuidora_TrabF.sql`. Uma visão geral do schema está em `foto.png`.
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/Myrodian/Trab_Distribuidora.git
-cd Trab_Distribuidora
+git clone https://github.com/Myrodian/delivery-management-system.git
+cd delivery-management-system
 
 # 2. Crie o banco (rode o script SQL no MySQL)
 mysql -u root -p < Distribuidora_TrabF.sql
