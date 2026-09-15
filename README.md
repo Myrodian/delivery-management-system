@@ -51,7 +51,7 @@ mysql -u root -p < Distribuidora_TrabF.sql
 pip install mysql-connector-python tabulate
 
 # 4. Run the application
-python distribuidora/main.py   <!-- adjust to your actual entry-point file -->
+python distribuidora/main.py
 ```
 
 > Before running, update the database connection settings (host, user, password)
@@ -106,7 +106,7 @@ mysql -u root -p < Distribuidora_TrabF.sql
 pip install mysql-connector-python tabulate
 
 # 4. Rode a aplicação
-python distribuidora/main.py   <!-- ajuste para o arquivo principal real -->
+python distribuidora/main.py
 ```
 
 > Antes de rodar, atualize os dados de conexão (host, usuário, senha) no código
